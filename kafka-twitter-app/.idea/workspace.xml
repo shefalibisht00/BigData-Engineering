@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d411933-9089-482e-92f4-5eb3459d2948" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aca6TjPY6lpiRB7XtKekzHyQ4s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kafka-basic-app" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.shefalibisht.kafka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KafkaApp">
+    <configuration name="KafkaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.shefalibisht.kafka.KafkaApp" />
+      <module name="kafka-twitter-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaConsumerMongoDb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.shefalibisht.kafka.consumer.KafkaConsumerMongoDb" />
+      <module name="kafka-twitter-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.shefalibisht.kafka.consumer.TwitterConsumer" />
+      <module name="kafka-twitter-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.shefalibisht.kafka.producer.TwitterProducer" />
+      <module name="kafka-twitter-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.KafkaApp" />
+      <item itemvalue="Application.KafkaConsumerMongoDb" />
+      <item itemvalue="Application.TwitterConsumer" />
+      <item itemvalue="Application.TwitterProducer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaApp" />
+        <item itemvalue="Application.KafkaConsumerMongoDb" />
+        <item itemvalue="Application.TwitterConsumer" />
+        <item itemvalue="Application.TwitterProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="34" width="1444" height="952" key="#Project_Structure" timestamp="1587281420811">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state x="342" y="34" width="1444" height="952" key="#Project_Structure/55.34.1865.952@55.34.1865.952" timestamp="1587281420811" />
+    <state x="549" y="178" width="1138" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587461953600">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state x="549" y="178" width="1138" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog/55.34.1865.952@55.34.1865.952" timestamp="1587461953600" />
+    <state x="656" y="334" width="652" height="349" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587045501801">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state x="656" y="334" width="652" height="349" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/55.34.1865.952@55.34.1865.952" timestamp="1587045501801" />
+    <state x="155" y="132" width="1665" height="754" key="DiffContextDialog" timestamp="1587452195901">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state x="155" y="132" width="1665" height="754" key="DiffContextDialog/55.34.1865.952@55.34.1865.952" timestamp="1587452195901" />
+    <state x="717" y="210" width="530" height="598" key="FileChooserDialogImpl" timestamp="1587729606595">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state x="717" y="210" width="530" height="598" key="FileChooserDialogImpl/55.34.1865.952@55.34.1865.952" timestamp="1587729606595" />
+    <state width="1809" height="302" key="GridCell.Tab.0.bottom" timestamp="1587732796654">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state width="1809" height="302" key="GridCell.Tab.0.bottom/55.34.1865.952@55.34.1865.952" timestamp="1587732796654" />
+    <state width="1809" height="302" key="GridCell.Tab.0.center" timestamp="1587732796651">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state width="1809" height="302" key="GridCell.Tab.0.center/55.34.1865.952@55.34.1865.952" timestamp="1587732796651" />
+    <state width="1809" height="302" key="GridCell.Tab.0.left" timestamp="1587732796650">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state width="1809" height="302" key="GridCell.Tab.0.left/55.34.1865.952@55.34.1865.952" timestamp="1587732796650" />
+    <state width="1809" height="302" key="GridCell.Tab.0.right" timestamp="1587732796652">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state width="1809" height="302" key="GridCell.Tab.0.right/55.34.1865.952@55.34.1865.952" timestamp="1587732796652" />
+    <state width="1809" height="287" key="GridCell.Tab.1.bottom" timestamp="1587492091909">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state width="1809" height="287" key="GridCell.Tab.1.bottom/55.34.1865.952@55.34.1865.952" timestamp="1587492091909" />
+    <state width="1809" height="287" key="GridCell.Tab.1.center" timestamp="1587492091902">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state width="1809" height="287" key="GridCell.Tab.1.center/55.34.1865.952@55.34.1865.952" timestamp="1587492091902" />
+    <state width="1809" height="287" key="GridCell.Tab.1.left" timestamp="1587492091902">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state width="1809" height="287" key="GridCell.Tab.1.left/55.34.1865.952@55.34.1865.952" timestamp="1587492091902" />
+    <state width="1809" height="287" key="GridCell.Tab.1.right" timestamp="1587492091908">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state width="1809" height="287" key="GridCell.Tab.1.right/55.34.1865.952@55.34.1865.952" timestamp="1587492091908" />
+    <state x="629" y="146" width="706" height="725" key="new project wizard" timestamp="1587294114601">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state x="629" y="146" width="706" height="725" key="new project wizard/55.34.1865.952@55.34.1865.952" timestamp="1587294114601" />
+    <state x="566" y="33" width="840" height="1034" key="search.everywhere.popup" timestamp="1587037942130">
+      <screen x="55" y="34" width="1865" height="952" />
+    </state>
+    <state x="566" y="33" width="840" height="1034" key="search.everywhere.popup/55.34.1865.952@55.34.1865.952" timestamp="1587037942130" />
+  </component>
+</project>
